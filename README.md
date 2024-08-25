@@ -15,3 +15,6 @@
 重启后，插件应该在QChatGOT/data/plugins/ChatWeather/目录下生成了config.yaml
 配置里面的hfkey即可，hfapi默认的是免费devapi地址可以按需修改。
 和风天气控制台地址：https://console.qweather.com/#/apps
+
+## 效果
+![屏幕截图_20240825_092804.png](https://img.renil.cc/i/2024/08/25/66ca972ec3c58.png)
