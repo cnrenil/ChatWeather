@@ -6,7 +6,7 @@ from pkg.plugin.events import *  # 导入事件类
 
 # 注册插件
 @register(name="ChatWeather", description="Use function calls to get weather information", version="0.1", author="renil")
-class MyPlugin(BasePlugin):
+class ChatWeather(BasePlugin):
 
     # 插件加载时触发
     def __init__(self, host: APIHost):
